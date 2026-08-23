@@ -1,30 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Siddharth's%20Profile&fontSize=50&animation=fadeIn" alt="Header Banner" />
 </div>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<p align="center"><em>Crafting elegant solutions and building digital experiences.</em></p>
+<h1 align="center">Hi there, I'm Siddharth S 👋</h1>
+<p align="center"><em>Student at MIT Chennai | Building robust solutions in C++ & Python</em></p>
 
 ---
 
 ### 💫 About Me
 
-I am a passionate developer who loves turning complex problems into simple, beautiful, and intuitive designs. 
+I am a passionate developer focused on turning complex problems into efficient and reliable systems. I enjoy working on backend architecture, database schema design, and clean frontend integrations.
 
-*   🔭 **Currently working on:** [Your Current Project or Startup]
-*   🌱 **Currently learning:** [New Skill, Language, or Framework]
-*   👯 **Looking to collaborate on:** [Types of Open Source Projects]
-*   💬 **Ask me about:** [Your Areas of Expertise]
-*   ⚡ **Fun fact:** [Add a quirky or interesting fact about yourself]
+*   🔭 **Currently working on:** A digital campus wallet system and OptiGroup (an automated student group allocation & project tracking system).
+*   🌱 **Currently learning:** Advanced DBMS concepts like ACID compliance, BCNF, and ARIES recovery.
+*   👯 **Looking to collaborate on:** Database-driven applications, C++ projects, or innovative student tools.
+*   💬 **Ask me about:** Modern C++ (C++17/20), Python, SQL (MySQL/PostgreSQL), and Object-Oriented Programming.
+*   ⚡ **Fun fact:** I love bridging the gap between heavy backend database logic and interactive HTML/CSS/JS interfaces.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <!-- You can customize these icons at https://github.com/tandpfun/skill-icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,docker&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,mysql,postgres,sqlite,html,css,js,github,vscode&perline=10" alt="My Skills" />
   </a>
 </div>
 
@@ -33,9 +32,8 @@ I am a passionate developer who loves turning complex problems into simple, beau
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <!-- IMPORTANT: Replace 'yourusername' with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ssidmay7-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssidmay7-ai&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
@@ -43,7 +41,6 @@ I am a passionate developer who loves turning complex problems into simple, beau
 ### 📫 Let's Connect!
 
 <div align="center">
-  <!-- Replace the '#' with your actual profile URLs -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
