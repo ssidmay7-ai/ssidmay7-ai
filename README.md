@@ -36,6 +36,13 @@ I am a passionate developer focused on turning complex problems into efficient a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssidmay7-ai&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
+<br>
+
+<div align="center">
+  <h3 align="center">My Contribution Graph</h3>
+  <img src="https://ghchart.rshah.org/ssidmay7-ai" alt="Siddharth's Contribution Heatmap" />
+</div>
+
 ---
 
 ### 📫 Let's Connect!
